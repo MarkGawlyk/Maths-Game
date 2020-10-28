@@ -1,0 +1,17 @@
+GO
+CREATE DATABASE MathsGame
+GO
+USE MathsGame
+GO
+CREATE TABLE UserLogin (
+	UserName VARCHAR (25) NOT NULL ,
+	FirstName VARCHAR (15) NOT NULL ,
+	ClassCode VARCHAR(8) NOT NULL ,
+	PasswordHash CHAR(64) NOT NULL ,
+	HighScore INT NULL,
+	CurrentLevel FLOAT NOT NULL,
+	RecentScore INT NOT NULL,
+	GamesPlayed INT NULL
+	PRIMARY KEY (UserName)
+	)
+GO

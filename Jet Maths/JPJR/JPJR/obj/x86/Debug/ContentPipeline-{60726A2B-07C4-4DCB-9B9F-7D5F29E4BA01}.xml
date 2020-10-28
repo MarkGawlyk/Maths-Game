@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Platform1.png</Source>
+      <Name>Platform1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1.xnb</Output>
+      <Time>2018-11-08T11:35:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SkyBase.png</Source>
+      <Name>SkyBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SkyBase.xnb</Output>
+      <Time>2018-11-08T11:35:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Panda.png</Source>
+      <Name>Panda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Panda.xnb</Output>
+      <Time>2018-11-12T19:23:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Platform1s.png</Source>
+      <Name>Platform1s</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1s.xnb</Output>
+      <Time>2018-11-13T19:00:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle1.png</Source>
+      <Name>Particle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle1.xnb</Output>
+      <Time>2018-11-13T20:25:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle10.png</Source>
+      <Name>Particle10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle10.xnb</Output>
+      <Time>2018-11-13T20:25:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle2.png</Source>
+      <Name>Particle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle2.xnb</Output>
+      <Time>2018-11-13T20:25:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3.png</Source>
+      <Name>Particle3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle3.xnb</Output>
+      <Time>2018-11-13T20:25:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle4.png</Source>
+      <Name>Particle4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle4.xnb</Output>
+      <Time>2018-11-13T20:25:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle5.png</Source>
+      <Name>Particle5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle5.xnb</Output>
+      <Time>2018-11-13T20:25:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle6.png</Source>
+      <Name>Particle6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle6.xnb</Output>
+      <Time>2018-11-13T20:25:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle7.png</Source>
+      <Name>Particle7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle7.xnb</Output>
+      <Time>2018-11-13T20:25:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle8.png</Source>
+      <Name>Particle8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle8.xnb</Output>
+      <Time>2018-11-13T20:25:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle9.png</Source>
+      <Name>Particle9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle9.xnb</Output>
+      <Time>2018-11-13T20:25:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>coin1.png</Source>
+      <Name>coin1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin1.xnb</Output>
+      <Time>2018-11-14T15:01:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>coin2.png</Source>
+      <Name>coin2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin2.xnb</Output>
+      <Time>2018-11-14T15:01:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>coin3.png</Source>
+      <Name>coin3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin3.xnb</Output>
+      <Time>2018-11-14T15:01:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>coin4.png</Source>
+      <Name>coin4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin4.xnb</Output>
+      <Time>2018-11-14T15:01:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Pause1.png</Source>
+      <Name>Pause1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Pause1.xnb</Output>
+      <Time>2018-11-29T11:51:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Roof1s.png</Source>
+      <Name>Roof1s</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Roof1s.xnb</Output>
+      <Time>2018-12-07T10:40:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Bear.png</Source>
+      <Name>Bear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Bear.xnb</Output>
+      <Time>2019-01-29T18:23:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shooter.png</Source>
+      <Name>Shooter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Shooter.xnb</Output>
+      <Time>2019-01-11T17:24:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Rock.png</Source>
+      <Name>Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Rock.xnb</Output>
+      <Time>2019-01-11T17:24:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>DeadPanda.png</Source>
+      <Name>DeadPanda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadPanda.xnb</Output>
+      <Time>2019-01-11T21:10:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>AnswerBG.png</Source>
+      <Name>AnswerBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerBG.xnb</Output>
+      <Time>2019-01-14T19:10:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>QuestionBG.png</Source>
+      <Name>QuestionBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\QuestionBG.xnb</Output>
+      <Time>2019-01-16T13:50:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>IncorrectParticle.png</Source>
+      <Name>IncorrectParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\IncorrectParticle.xnb</Output>
+      <Time>2019-01-18T10:35:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>CorrectParticle.png</Source>
+      <Name>CorrectParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CorrectParticle.xnb</Output>
+      <Time>2019-01-18T10:35:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>DeadBear.png</Source>
+      <Name>DeadBear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadBear.xnb</Output>
+      <Time>2019-01-29T18:27:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Heart.png</Source>
+      <Name>Heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Heart.xnb</Output>
+      <Time>2019-01-30T18:19:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SplashLogo.png</Source>
+      <Name>SplashLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SplashLogo.xnb</Output>
+      <Time>2019-02-18T09:44:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LoginBox.png</Source>
+      <Name>LoginBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\LoginBox.xnb</Output>
+      <Time>2019-02-19T07:19:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LoginSelected.png</Source>
+      <Name>LoginSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\LoginSelected.xnb</Output>
+      <Time>2019-03-18T08:25:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>loginButton.png</Source>
+      <Name>loginButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\loginButton.xnb</Output>
+      <Time>2019-03-18T10:38:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>loginButtonS.png</Source>
+      <Name>loginButtonS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\loginButtonS.xnb</Output>
+      <Time>2019-03-18T10:38:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MessageBox.png</Source>
+      <Name>MessageBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\MessageBox.xnb</Output>
+      <Time>2019-03-18T14:46:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>NewAButton.png</Source>
+      <Name>NewAButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\NewAButton.xnb</Output>
+      <Time>2019-03-18T18:57:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>NewAButtonS.png</Source>
+      <Name>NewAButtonS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\NewAButtonS.xnb</Output>
+      <Time>2019-03-18T18:57:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GoBackB.png</Source>
+      <Name>GoBackB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\GoBackB.xnb</Output>
+      <Time>2019-03-18T19:27:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GoBackBs.png</Source>
+      <Name>GoBackBs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\GoBackBs.xnb</Output>
+      <Time>2019-03-18T19:27:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>CreateB.png</Source>
+      <Name>CreateB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CreateB.xnb</Output>
+      <Time>2019-03-19T20:44:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>CreateBs.png</Source>
+      <Name>CreateBs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CreateBs.xnb</Output>
+      <Time>2019-03-19T20:44:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Play.png</Source>
+      <Name>Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Play.xnb</Output>
+      <Time>2019-04-10T11:23:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayS.png</Source>
+      <Name>PlayS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\PlayS.xnb</Output>
+      <Time>2019-04-10T11:23:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HighScores.png</Source>
+      <Name>HighScores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\HighScores.xnb</Output>
+      <Time>2019-04-10T11:48:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HighScoresS.png</Source>
+      <Name>HighScoresS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\HighScoresS.xnb</Output>
+      <Time>2019-04-10T11:48:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ChangeClass.png</Source>
+      <Name>ChangeClass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangeClass.xnb</Output>
+      <Time>2019-04-17T11:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ChangeClassS.png</Source>
+      <Name>ChangeClassS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangeClassS.xnb</Output>
+      <Time>2019-04-17T11:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ChangePass.png</Source>
+      <Name>ChangePass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangePass.xnb</Output>
+      <Time>2019-04-17T11:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ChangePassS.png</Source>
+      <Name>ChangePassS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangePassS.xnb</Output>
+      <Time>2019-04-17T11:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Score.spritefont</Source>
+      <Name>Score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Score.xnb</Output>
+      <Time>2019-02-16T19:14:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>AnswerFont.spritefont</Source>
+      <Name>AnswerFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerFont.xnb</Output>
+      <Time>2019-01-14T19:11:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleFont.spritefont</Source>
+      <Name>TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\TitleFont.xnb</Output>
+      <Time>2019-03-20T13:03:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TextFont.spritefont</Source>
+      <Name>TextFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\TextFont.xnb</Output>
+      <Time>2019-03-20T13:03:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>melodyloops-season-of-joy.mp3</Source>
+      <Name>melodyloops-season-of-joy</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.xnb</Output>
+      <Extra>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.wma</Extra>
+      <Time>2018-11-30T10:27:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>DeathSound.mp3</Source>
+      <Name>DeathSound</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.xnb</Output>
+      <Extra>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.wma</Extra>
+      <Time>2019-02-06T13:04:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BGSong.mp3</Source>
+      <Name>BGSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.xnb</Output>
+      <Extra>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.wma</Extra>
+      <Time>2019-02-14T11:41:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Coin.wav</Source>
+      <Name>Coin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Coin.xnb</Output>
+      <Time>2019-02-13T14:22:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Applause.wav</Source>
+      <Name>Applause</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Applause.xnb</Output>
+      <Time>2019-02-14T11:14:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Punch.wav</Source>
+      <Name>Punch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Punch.xnb</Output>
+      <Time>2019-02-14T11:39:04+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{60726A2B-07C4-4DCB-9B9F-7D5F29E4BA01}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJRContent\</RootDirectory>
+      <LoggerRootDirectory>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-10-25T21:52:52.2389336+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

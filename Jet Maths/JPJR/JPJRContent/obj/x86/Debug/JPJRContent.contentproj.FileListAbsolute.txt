@@ -1,0 +1,7 @@
+F:\NEWJPJR\JPJR\JPJR\JPJRContent\obj\x86\Debug\JPJRContent.contentprojResolveAssemblyReference.cache
+D:\NEWJPJR\JPJR\JPJR\JPJRContent\obj\x86\Debug\JPJRContent.contentprojResolveAssemblyReference.cache
+D:\JPJR\JPJR\JPJR\JPJRContent\obj\x86\Debug\JPJRContent.contentprojResolveAssemblyReference.cache
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJRContent\obj\x86\Debug\JPJRContent.contentprojResolveAssemblyReference.cache
+F:\JPJR\JPJR\JPJR\JPJRContent\obj\x86\Debug\JPJRContent.contentprojResolveAssemblyReference.cache
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJRContent\obj\x86\Debug\JPJRContent.contentprojResolveAssemblyReference.cache
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJRContent\obj\x86\Debug\JPJRContent.contentprojResolveAssemblyReference.cache

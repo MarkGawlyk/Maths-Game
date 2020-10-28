@@ -1,0 +1,461 @@
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SkyBase.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.pdb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\NEWJPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.csprojResolveAssemblyReference.cache
+F:\NEWJPJR\JPJR\JPJR\JPJR\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\NEWJPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe
+F:\NEWJPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.pdb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SkyBase.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.pdb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\NEWJPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.csprojResolveAssemblyReference.cache
+D:\NEWJPJR\JPJR\JPJR\JPJR\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\NEWJPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe
+D:\NEWJPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.pdb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Panda.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1s.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Score.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle1.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle10.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle2.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle3.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle4.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle5.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle6.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle7.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle8.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle9.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Panda.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1s.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle1.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle10.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle2.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle3.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle4.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle5.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle6.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle7.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle8.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle9.xnb
+F:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Score.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin1.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin2.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin3.xnb
+D:\NEWJPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin4.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SkyBase.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Panda.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1s.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle1.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle10.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle2.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle3.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle4.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle5.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle6.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle7.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle8.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle9.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin1.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin2.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin3.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin4.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Score.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.pdb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.csprojResolveAssemblyReference.cache
+D:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe
+D:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.pdb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SkyBase.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Panda.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1s.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle1.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle10.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle2.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle3.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle4.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle5.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle6.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle7.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle8.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle9.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin1.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin2.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin3.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin4.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Score.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.pdb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe
+F:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.pdb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Pause1.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.wma
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Pause1.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.wma
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Roof1s.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Roof1s.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Shooter.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Rock.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadPanda.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Shooter.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Rock.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadPanda.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerBG.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerFont.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerBG.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerFont.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\QuestionBG.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\QuestionBG.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe.manifest
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.application
+D:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe.manifest
+D:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.application
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe.manifest
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.application
+F:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe.manifest
+F:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.application
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\IncorrectParticle.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CorrectParticle.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\IncorrectParticle.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CorrectParticle.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Bear.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadBear.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Bear.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadBear.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Heart.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Heart.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.wma
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Coin.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Applause.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Punch.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.wma
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Coin.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Applause.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Punch.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.wma
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.wma
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SkyBase.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Panda.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1s.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle1.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle10.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle2.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle3.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle4.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle5.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle6.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle7.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle8.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle9.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin1.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin2.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin3.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin4.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Pause1.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Roof1s.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Bear.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Shooter.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Rock.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadPanda.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerBG.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\QuestionBG.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\IncorrectParticle.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CorrectParticle.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadBear.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Heart.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SplashLogo.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Score.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerFont.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Coin.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Applause.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Punch.xnb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.wma
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.wma
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.wma
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe.manifest
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.application
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.pdb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.csprojResolveAssemblyReference.cache
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe.manifest
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.application
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.pdb
+C:\Users\gawly\Desktop\SAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\LoginBox.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SplashLogo.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\LoginBox.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\LoginSelected.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SplashLogo.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\LoginBox.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\LoginSelected.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\loginButton.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\loginButtonS.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\MessageBox.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\TitleFont.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\TextFont.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\NewAButton.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\NewAButtonS.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\GoBackB.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\GoBackBs.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CreateB.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CreateBs.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\loginButton.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\loginButtonS.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\MessageBox.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\NewAButton.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\NewAButtonS.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\GoBackB.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\GoBackBs.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CreateB.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CreateBs.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\TitleFont.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\TextFont.xnb
+F:\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.csprojResolveAssemblyReference.cache
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Play.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\PlayS.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\HighScores.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\HighScoresS.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangeClass.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangeClassS.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangePass.xnb
+D:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangePassS.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Play.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\PlayS.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\HighScores.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\HighScoresS.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangeClass.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangeClassS.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangePass.xnb
+F:\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangePassS.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SkyBase.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Panda.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1s.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle1.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle10.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle2.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle3.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle4.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle5.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle6.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle7.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle8.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle9.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin1.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin2.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin3.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin4.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Pause1.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Roof1s.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Bear.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Shooter.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Rock.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadPanda.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerBG.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\QuestionBG.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\IncorrectParticle.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CorrectParticle.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadBear.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Heart.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SplashLogo.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\LoginBox.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\LoginSelected.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\loginButton.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\loginButtonS.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\MessageBox.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\NewAButton.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\NewAButtonS.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\GoBackB.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\GoBackBs.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CreateB.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CreateBs.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Play.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\PlayS.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\HighScores.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\HighScoresS.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangeClass.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangeClassS.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangePass.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangePassS.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Score.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerFont.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\TitleFont.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\TextFont.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Coin.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Applause.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Punch.xnb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.wma
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.wma
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.wma
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe.manifest
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.application
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.pdb
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.csprojResolveAssemblyReference.cache
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe.manifest
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.application
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe
+C:\Users\gawly\Desktop\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.pdb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SkyBase.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Panda.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Platform1s.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle1.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle10.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle2.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle3.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle4.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle5.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle6.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle7.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle8.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Particle9.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin1.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin2.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin3.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\coin4.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Pause1.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Roof1s.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Bear.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Shooter.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Rock.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadPanda.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerBG.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\QuestionBG.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\IncorrectParticle.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CorrectParticle.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeadBear.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Heart.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\SplashLogo.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\LoginBox.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\LoginSelected.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\loginButton.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\loginButtonS.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\MessageBox.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\NewAButton.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\NewAButtonS.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\GoBackB.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\GoBackBs.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CreateB.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\CreateBs.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Play.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\PlayS.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\HighScores.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\HighScoresS.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangeClass.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangeClassS.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangePass.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\ChangePassS.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Score.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\AnswerFont.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\TitleFont.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\TextFont.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Coin.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Applause.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\Punch.xnb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\melodyloops-season-of-joy.wma
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\DeathSound.wma
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Content\BGSong.wma
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe.manifest
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.application
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.exe
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\JPJR.pdb
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.csprojResolveAssemblyReference.cache
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe.manifest
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.application
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.exe
+D:\NEW WORKING\SDAFE\JPJR\JPJR\JPJR\JPJR\obj\x86\Debug\JPJR.pdb
